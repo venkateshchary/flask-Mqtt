@@ -82,7 +82,7 @@ Here's why:
 * python
   ```sh
     sudo apt install python3
-    source venv/bin/activate
+    python3 -m venv venv
   ```
 
 ### Installation
